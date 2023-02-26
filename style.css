@@ -1,0 +1,15 @@
+.header {
+    text-align: center;
+}
+
+div {
+    text-align: center;
+    border: black;
+    border-width: 5px;
+    border-style: solid;
+  }
+
+ul {
+    display: inline-block;
+    text-align: left;
+}
